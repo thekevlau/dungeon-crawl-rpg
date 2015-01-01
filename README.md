@@ -1,4 +1,4 @@
 dungeon-crawler-roleplayinggame
 ===============================
 
-my first MSORPG.
+My first MSORPG (Miniscule Singleplayer Offline Role Playing Game)
